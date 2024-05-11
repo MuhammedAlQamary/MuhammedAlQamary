@@ -33,7 +33,6 @@
 ![.Net](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=sass)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![Swift](https://img.shields.io/badge/-Swift%20-05122A?style=flat&logo=python)&nbsp;
 
 
 
